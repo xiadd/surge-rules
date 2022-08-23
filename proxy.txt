@@ -1,2 +1,3 @@
 .vitejs.dev
 .axshare.com
+.githubusercontent.com
