@@ -2,3 +2,4 @@
 .axshare.com
 .githubusercontent.com
 .google.com
+.github.com
