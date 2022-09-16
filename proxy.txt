@@ -3,3 +3,4 @@
 .githubusercontent.com
 .google.com
 .github.com
+.nodered.org
