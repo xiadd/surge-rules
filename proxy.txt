@@ -5,3 +5,6 @@
 .github.com
 .nodered.org
 .racknerd.com
+
+
+minio.551111.xyz
